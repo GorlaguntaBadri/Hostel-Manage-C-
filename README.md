@@ -7,7 +7,7 @@ A simple **Hostel Management System** built using **C++** for beginner to interm
 - 📜 **Display Students**: View all registered students.
 - 🔎 **Search Student**: Find a student by ID.
 - ❌ **Exit**: Ends the program.
-
+.
 
 ## 📸 Outputs
 ![oodp 1](https://github.com/user-attachments/assets/8efad150-dcf4-445e-a17c-ca0be7d522bf)
